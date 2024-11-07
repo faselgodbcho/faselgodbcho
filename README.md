@@ -6,7 +6,7 @@ I’m a passionate front-end web developer with a growing expertise in creating 
 - **🌱 Currently Learning:** Building dynamic and accessible front-end applications with React, TypeScript, and Firebase.
 - **👀 Interests:** Front-end development, UX/UI design, and exploring back-end fundamentals.
 - **💼 Open to Collaborate On:** Front-end projects that involve React, Firebase, or design-oriented web apps.
-- **💬 Let's Connect:** Reach me on [GitHub](https://github.com/faselgodbcho), [X (Twitter)](https://x.com/[faselgodbcho](https://x.com/FGodbcho74062)), [Instagram](https://instagram.com/faselgodbcho), or [Telegram](https://t.me/faselgodbcho) (mostly active on X).
+- **💬 Let's Connect:** Reach me on [GitHub](https://github.com/faselgodbcho), [X (Twitter)](https://x.com/FGodbcho74062), [Instagram](https://instagram.com/faselgodbcho), or [Telegram](https://t.me/faselgodbcho) (mostly active on X).
 - **😄 Pronouns:** He/Him
 - **⚡ Fun Fact:** I'm always excited to learn something new, especially in tech!
 
