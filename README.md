@@ -1,9 +1,9 @@
 # About Me:
-- 💻 **Full-Stack Developer** focused on building modern, high-performance web apps with **Next.js** and **React** on the frontend, and **Python**/**Django** on the backend.<br><br>
-- 🌱 **Currently Learning:** Deepening my expertise in full-stack architecture, API design, and scalable cloud deployment.<br><br>
-- 👀 **Interests:** Front-end experiences, backend systems, AI-powered tools, and clean, accessible UI design.<br><br>
-- 💼 **Open to Collaborate On:** Full-stack projects, especially those using React, Next.js, Firebase, or Django.<br><br>
-- 💬 **Let’s Connect:** I'm active on GitHub, X (Twitter), Instagram, and Telegram.<br><br>
+- 💻 **Full-Stack Developer** focused on building modern, high-performance web apps with **Next.js** and **React** on the frontend, and **Python**/**Django** on the backend.
+- 🌱 **Currently Learning:** Deepening my expertise in full-stack architecture, API design, and scalable cloud deployment.
+- 👀 **Interests:** Front-end experiences, backend systems, AI-powered tools, and clean, accessible UI design.
+- 💼 **Open to Collaborate On:** Full-stack projects, especially those using React, Next.js, Firebase, or Django.
+- 💬 **Let’s Connect:** I'm active on GitHub, X (Twitter), Instagram, and Telegram.
 - 😄 **Pronouns:** He/Him<br>
 
 
